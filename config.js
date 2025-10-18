@@ -10,7 +10,7 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "Emirin Sözünü", 
+  activityName: "Instagram : fweezie", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "discord.com/invite/8XSVzGFtqH",
   embedTimeout: 5, 
